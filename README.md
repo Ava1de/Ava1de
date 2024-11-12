@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ava1de
-- 👀 I’m interested in web development and cuber security.
+- 👀 I’m interested in web development and cyber security.
 - 🌱 I’m currently learning web development using html and css.
 - 💞️ I’m looking to collaborate on projects involving web development and we design.
 - 📫 How to reach me (LinkedIn) Raphael Omondi
